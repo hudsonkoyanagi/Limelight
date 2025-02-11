@@ -1,14 +1,7 @@
 # Limelight
----
-Group members:
-- Arjun Walia
-- Andrew Jia
-- Hudson Koyanagi
-- Kelly Guan
-- Lindsay Zhang
 
 ## Setup
-This project relies on Node.js, a Docker container and the PostgreSQL cli.
+This project relies on Node.js, Docker and the PostgreSQL cli.
 
 Please download Docker from their website (https://www.docker.com/get-started/).
 
